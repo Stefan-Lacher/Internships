@@ -1,10 +1,12 @@
 # ExecutiveSales-MedTourEasyProject
  
-##Executive Summary
+#Executive Summary
+
 Data visualization has the capability to simplify complex facts and figures, transforming raw data into actionable business insights. Tableau Public, which is available as a free web service or comes with the Tableau Desktop. Indeed, it just takes a few mouse clicks to create a custom dashboard report If you follow the right steps. Before you begin using the visualization tool Tableau, make sure that you have registered for an account. Once you have completed the registration process, follow this step-by-step tutorial and create your custom dashboard.
 
 
-##Process
+#Process
+
 We will work closely with you to build and fulfill the needs of this project by the end of your internship. We will do this by establishing clear goals and a comprehensive solution based on project requirements. Our process to achieve this is as follows: 
 Tableau Project Overview (Requirement)
 
